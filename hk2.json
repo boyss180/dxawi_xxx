@@ -2,7 +2,8 @@
 "sites": [
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_小宝影院","name":"🥒小宝影院(墙外)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/小宝影院.json"},
+{"key":"csp_biubiu_小宝影院","name":"🥒小宝影院(墙外)old","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/小宝影院.json"},
+{"key":"csp_Xiaoh","name":"🥒小宝影院(墙外)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_XYQBiu_310直播","name":"310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/hk2/ext/310直播.json"},
 {"key":"csp_XPath3_88","name":"88看球 ⚽ 🏀","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/hk2/ext/88看球.json"},
 {"key": "dr_JRKAN直播","name": "DJ看球(drpy) ⚽ 🏀","type": 3,"api": "https://boyss180.github.io/hk2/ext/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://boyss180.github.io/hk2/ext/JRKAN直播.js"},
