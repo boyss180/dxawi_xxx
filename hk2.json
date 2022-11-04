@@ -7,7 +7,7 @@
 {"key":"csp_xpath_独播库","name":"獨播庫 (播放器改成[系统播放器])","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/MaooXX/duboku3.json"},
 {"key":"csp_biubiu_欧乐影院","name":"歐樂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/MaooXX/欧乐影院.json"},
 //{"key":"csp_xpath_Ole","name":"歐樂 (播放器改成[Exo])","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/MaooXX/olevod.json"},
-{"key":"csp_Cokemv","name":"���𥺂ok��SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"Coke","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Cokemv","name":"Coke (選[海外(禁國內)]看,不能搜索)","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XPath3_88","name":"88看球 ⚽ 🏀","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/hk2/ext/88看球.json"},
 {"key": "dr_JRKAN直播","name": "DJ看球(drpy) ⚽ 🏀","type": 3,"api": "https://boyss180.github.io/hk2/ext/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://boyss180.github.io/hk2/ext/JRKAN直播.js"},
