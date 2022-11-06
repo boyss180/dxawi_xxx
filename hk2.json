@@ -1,6 +1,6 @@
 {
 "sites": [
-{"key":"csp_Xiaoh","name":"👍 小寶 (不能搜索)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xiaoh","name":"小寶 (不能搜索)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"Coke 👉選 [海外禁國內] 看,不能搜索","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_唐人街","name":"唐人街 👉選 [haiwaikan] 或 [藍光二] 看","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/MaooXX/Renjie.json"},
 //{"key":"csp_trj","name": "唐人街 (沒有歷史)","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
