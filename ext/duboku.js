@@ -4,7 +4,7 @@
 //{"name":"🌐Ⓤ","type":0,"url":"","header":{"User-Agent":"Mozilla/5.0"}},
 
 var rule = Object.assign(muban.首图,{
-	title:'独播库',
+	title:'duboku',
 	// host:'https://www.duboku.tv',
 	host:'https://u.duboku.io',
 	class_parse:'.nav-list li;a&&Text;a&&href;.*/(.*?).html',
