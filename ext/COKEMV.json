@@ -9,7 +9,6 @@
   "分类url": "https://cokemv.me/vod/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "数组": "module-item\">&&module-item-titlebox\">",
-  "标题": "title=\"&&\"[替换:在线上看>>空]",
   "副标题": "module-item-caption\">&&</div>",
   
   "搜索模式": "1",
