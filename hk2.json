@@ -2,10 +2,10 @@
   "sites": [
 {"key":"Xiaoh","name":"小寶 (小心！有色情廣告)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 //{"key":"csp_xBPQ_COKEMV","name":"Coke 👉選 [海外...] 看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/COKEMV.json"},
-{"key":"Cokemv","name":"Coke 👉選 [海外...] 看","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
+//{"key":"Cokemv","name":"Coke 👉選 [海外...] 看","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"b88de1329655cca1beba45aa9776de70"},
 //{"key":"csp_xBPQ_吼吼","name":"HoHo 👉選 [海外...] 看","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/hoho.json"},
-{"key": "dr_HoHo_new","name": "HoHo 👉選 [海外...] 看","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/hk2/ext/HoHo_newnew.js"},
-{"key": "dr_欧乐影院","name": "歐樂 (小心！有色情廣告)","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/hk2/ext/if101_new.js"},
+//{"key": "dr_HoHo_new","name": "HoHo 👉選 [海外...] 看","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/hk2/ext/HoHo_newnew.js"},
+//{"key": "dr_欧乐影院","name": "歐樂 (小心！有色情廣告)","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/hk2/ext/if101_new.js"},
 {"key": "dr_独播库_new","name":"獨播庫","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/独播库_new.js"},
 //{"key":"独播库","name":"獨播庫","type":"4","api":"https://tang.run.goorm.app/duboku","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"nbys","name":"泥巴影院","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
